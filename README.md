@@ -1,11 +1,11 @@
 # Badminton Attendance Tracker
 
 ## Table of Contents
-- [Requirements](./requirements.md)
-- [Design Requirements](./design.md)
-- [Data Model](./data-model.md)
-- [Architecture Overview](./architecture.md)
-- [Cost Calculation Logic](./cost-logic.md)
-- [Stack Alternatives](./stack-alternatives.md)
-- [Implementation Plan](./implementation.md)
-- [Milestones](./milestones.md)
+- [Requirements](./docs/requirements.md)
+- [Design Requirements](./docs/design.md)
+- [Data Model](./docs/data-model.md)
+- [Architecture Overview](./docs/architecture.md)
+- [Cost Calculation Logic](./docs/cost-logic.md)
+- [Stack Alternatives](./docs/stack-alternatives.md)
+- [Implementation Plan](./docs/implementation.md)
+- [Milestones](./docs/milestones.md)
